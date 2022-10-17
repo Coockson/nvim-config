@@ -2,6 +2,12 @@
 
 The init.vim file in this repo is my preffered configuration.
 
+## Initialization
+
+To install the plugins listed in the init.vim file run:
+```
+:PlugInstall
+```
 
 ## Shortcuts
 
