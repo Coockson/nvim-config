@@ -4,6 +4,10 @@ The init.vim file in this repo is my preffered configuration.
 
 ## Initialization
 
+The init.vim file in this repository should go to:
+```
+~/.config/nvim/
+```
 To install the plugins listed in the init.vim file run:
 ```
 :PlugInstall
